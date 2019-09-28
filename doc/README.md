@@ -23,3 +23,8 @@ Fabian Thorns posts:
 7. [Container Orchestration](https://www.lpi.org/blog/2018/02/20/devops-tools-introduction-07-container-orchestration)
 8. [Container Infrastructure](https://www.lpi.org/blog/2018/02/27/devops-tools-introduction-08-container-infrastructure)
 9. [Machine Deployment](https://www.lpi.org/blog/2018/03/06/devops-tools-introduction-09-machine-deployment)
+10. [Ansible](https://www.lpi.org/blog/2018/03/13/devops-tools-introduction-10-ansible)
+11. [Other Configuration Management Tools](https://www.lpi.org/blog/2018/03/20/devops-tools-introduction-11-other-configuration-management-tools)
+12. [IT Operations and Monitoring](https://www.lpi.org/blog/2018/03/27/devops-tools-introduction-12-it-operations-and-monitoring)
+13. [Log Management and Analysis](https://www.lpi.org/blog/2018/04/03/devops-tools-introduction-13-log-management-and-analysis)
+14. [Taking the Test](https://www.lpi.org/blog/2018/04/10/devops-tools-introduction-14-taking-test)
