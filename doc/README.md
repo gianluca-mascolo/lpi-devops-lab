@@ -16,7 +16,7 @@ pandoc objectives.odt -f odt -t gfm -s -o objectives.md
 Fabian Thorns posts:
 1. [Getting Started](https://www.lpi.org/blog/2018/01/09/devops-tools-introduction-01-getting-getting-started-started)
 2. [Modern Software Development](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-modern-software-development)
-..* [Twelve-Factor Applications](https://12factor.net/)
+  * [Twelve-Factor Applications](https://12factor.net/)
 3. [Cloud Components and Platforms](https://www.lpi.org/blog/2018/01/23/devops-tools-introduction-03-cloud-components-and-platforms)
 4. [Source Code Management](https://www.lpi.org/blog/2018/01/30/devops-tools-introduction-04-source-code-management)
 5. [Continuous Delivery](https://www.lpi.org/blog/2018/02/06/devops-tools-introduction-05-continuous-delivery)
